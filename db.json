@@ -1,2 +1,2 @@
-{"quote":{"symbol":"AAPL","companyName":"Apple Inc.","latestPrice":219.31},
- {"symbol":"AA","companyName":"Alcoa Corporation","latestPrice":38.636}}
+{"profiles":[  {"id": 1, "symbol":"AAPL","companyName":"Apple Inc.","latestPrice":219.31},
+               {"id": 2, "symbol":"AA","companyName":"Alcoa Corporation","latestPrice":38.636}}

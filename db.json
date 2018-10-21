@@ -1,6 +1,6 @@
 {"quote":[
- {"id": 1, "symbol":"AAPL","companyName":"Apple Inc.","latestPrice":219.31},
- {"id": 2, "symbol":"AA","companyName":"Alcoa Corporation","latestPrice":38.636},
- {"id": 4, "symbol":"USO","companyName":"OIL INC.","latestPrice":21.22},
- {"id": 3, "symbol":"AAA","companyName":"TRIPE A","latestPrice":29.32}
+ {"symbol":"AAPL","companyName":"Apple Inc.","latestPrice":219.31},
+ {"symbol":"AA","companyName":"Alcoa Corporation","latestPrice":38.636},
+ {"symbol":"USO","companyName":"OIL INC.","latestPrice":21.22},
+ {"symbol":"AAA","companyName":"TRIPE A","latestPrice":29.32}
  ]}
